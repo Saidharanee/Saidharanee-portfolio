@@ -40,7 +40,10 @@ const ResumeSection = () => {
           </ul>
 
           <a
-            href="#"
+            href="/Saidharanee_konka.pdf"
+            download="Saidharanee_Konka_Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn-neon inline-flex items-center gap-2 mt-8"
           >
             <svg
