@@ -40,7 +40,7 @@ const Footer = () => {
           {/* Social Icons */}
           <div className="flex gap-4">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/sai-dharanee-57a75a364"
               target="_blank"
               rel="noopener noreferrer"
               className="social-icon"
@@ -51,7 +51,7 @@ const Footer = () => {
               </svg>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Saidharanee"
               target="_blank"
               rel="noopener noreferrer"
               className="social-icon"
