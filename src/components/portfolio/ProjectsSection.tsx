@@ -4,7 +4,7 @@ const projects = [
     description:
       "Analyzed a large-scale sales dataset with 1,000,000 records using PySpark for distributed data processing. Applied aggregations and grouping to identify top-selling products.",
     tech: ["PySpark", "Apache Spark", "Python", "Data Analysis"],
-    link: "#",
+    link: "https://github.com/Saidharanee/Big-Data-Analysis-Using-PySpark",
     featured: true,
   },
   {
@@ -12,7 +12,7 @@ const projects = [
     description:
       "Built a predictive analytics model using Logistic Regression to classify student pass/fail outcomes based on study hours.",
     tech: ["Python", "Scikit-learn", "Pandas", "Matplotlib"],
-    link: "#",
+    link: "https://github.com/Saidharanee/Predictive_Analytics_for_Student_Academic_Performance",
     featured: true,
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     description:
       "Replicated core UI components of Netflix including homepage layout, navigation bar, and content sections using pure HTML and CSS.",
     tech: ["HTML", "CSS", "Responsive Design"],
-    link: "#",
+    link: "https://github.com/Saidharanee/Netflix-UI-Clone",
     featured: false,
   },
   {
