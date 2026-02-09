@@ -24,11 +24,19 @@ const projects = [
     featured: false,
   },
   {
+    title: "AI-Based Face Recognition Attendance System",
+    description:
+      "Developed an AI-powered attendance system using face recognition technology to automate and streamline the attendance tracking process.",
+    tech: ["Python", "OpenCV", "Face Recognition", "AI/ML"],
+    link: "https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System",
+    featured: true,
+  },
+  {
     title: "Portfolio Website",
     description:
       "A futuristic glassmorphism portfolio website built with modern web technologies and CSS-only animations.",
     tech: ["React", "TypeScript", "Tailwind CSS"],
-    link: "#",
+    link: "https://github.com/Saidharanee/neon-genesis-portfolio",
     featured: false,
   },
 ];
