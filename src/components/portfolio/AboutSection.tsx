@@ -7,6 +7,13 @@ const skills = {
 
 const experience = [
   {
+    title: "Data Analytics Intern",
+    company: "CodTech IT Solutions",
+    period: "Present",
+    description:
+      "Currently working on data analytics projects, leveraging tools and techniques to derive actionable insights from data.",
+  },
+  {
     title: "Full Stack Developer Intern",
     company: "Spark Info Solutions",
     period: "Jan 2026 - Present",
@@ -58,7 +65,7 @@ const AboutSection = () => {
             </div>
             <div className="w-px h-10 bg-border" />
             <div className="flex items-center gap-2">
-              <span className="text-3xl font-bold text-gradient">2+</span>
+              <span className="text-3xl font-bold text-gradient">3+</span>
               <span className="text-muted-foreground text-sm">Internships</span>
             </div>
           </div>
