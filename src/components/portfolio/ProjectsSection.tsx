@@ -32,6 +32,14 @@ const projects = [
     featured: true,
   },
   {
+    title: "Air Quality Analysis Power BI Dashboard",
+    description:
+      "Built an interactive Power BI dashboard to analyze and visualize air quality data, providing insights into pollution trends and environmental patterns.",
+    tech: ["Power BI", "Data Visualization", "Data Analysis"],
+    link: "https://github.com/Saidharanee/Air-Quality-Analysis-Power-BI-Dashboard",
+    featured: true,
+  },
+  {
     title: "Portfolio Website",
     description:
       "A futuristic glassmorphism portfolio website built with modern web technologies and CSS-only animations.",
