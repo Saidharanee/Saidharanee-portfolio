@@ -52,7 +52,7 @@ const projects = [
     description:
       "A futuristic glassmorphism portfolio website built with modern web technologies and CSS-only animations.",
     tech: ["React", "TypeScript", "Tailwind CSS"],
-    link: "https://github.com/Saidharanee/neon-genesis-portfolio",
+    link: "https://github.com/Saidharanee/saidharanee-portfolio",
     featured: false,
   },
 ];
