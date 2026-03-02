@@ -40,6 +40,14 @@ const projects = [
     featured: true,
   },
   {
+    title: "Superstore Sales Analysis Power BI Dashboard",
+    description:
+      "Created a comprehensive Power BI dashboard to analyze superstore sales data, uncovering trends in revenue, profit margins, and regional performance.",
+    tech: ["Power BI", "Data Visualization", "Sales Analytics"],
+    link: "https://github.com/Saidharanee/Superstore-Sales-Analysis-Power-BI-Dashboard",
+    featured: true,
+  },
+  {
     title: "Portfolio Website",
     description:
       "A futuristic glassmorphism portfolio website built with modern web technologies and CSS-only animations.",
